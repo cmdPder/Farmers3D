@@ -1,4 +1,4 @@
-<details　open><summary>English</summary>
+<details open><summary>English</summary>
 
 Resource pack to change items added in [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) to 3D
 
