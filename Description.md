@@ -13,3 +13,11 @@ Resource pack to change items added in [Farmer's Delight](https://www.curseforge
 で追加されるアイテムを3Dに変更するリソースパック
 
 </details>
+
+<div class="spoiler">
+<p>Spoiler Text 1</p>
+  <div class="spoiler">
+  <p>Nested Spoiler 2<br /><br /></p>
+  </div>
+<p>.<br /><br /></p>
+</div>
