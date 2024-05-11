@@ -14,6 +14,11 @@ Resource pack to change items added in [Farmer's Delight](https://www.curseforge
 
 </details>
 
+
+<details>
+<summary>Japanese</summary>
+[Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) で追加されるアイテムを3Dに変更するリソースパック</details>
+
 <div class="spoiler">
 <p>Spoiler Text 1</p>
   <div class="spoiler">
